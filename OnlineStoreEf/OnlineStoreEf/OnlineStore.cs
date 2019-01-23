@@ -16,7 +16,11 @@
             : base("name=OnlineStore")
         {
         }
-
+        public DbSet<Order> Orders { get; set; }
+        public DbSet<Good> Goods { get; set; }
+        public DbSet<Customer> Customers { get; set; }
+        public DbSet<Category> Categorys { get; set; }
+ 
         // Добавьте DbSet для каждого типа сущности, который требуется включить в модель. Дополнительные сведения 
         // о настройке и использовании модели Code First см. в статье http://go.microsoft.com/fwlink/?LinkId=390109.
 
