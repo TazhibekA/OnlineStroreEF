@@ -1,0 +1,15 @@
+C:\Users\ТажибекА\source\repos\OnlineStoreEf\OnlineStoreEf\bin\Debug\OnlineStoreEf.exe.config
+C:\Users\ТажибекА\source\repos\OnlineStoreEf\OnlineStoreEf\bin\Debug\OnlineStoreEf.exe
+C:\Users\ТажибекА\source\repos\OnlineStoreEf\OnlineStoreEf\bin\Debug\OnlineStoreEf.pdb
+C:\Users\ТажибекА\source\repos\OnlineStoreEf\OnlineStoreEf\bin\Debug\EntityFramework.dll
+C:\Users\ТажибекА\source\repos\OnlineStoreEf\OnlineStoreEf\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ТажибекА\source\repos\OnlineStoreEf\OnlineStoreEf\bin\Debug\EntityFramework.xml
+C:\Users\ТажибекА\source\repos\OnlineStoreEf\OnlineStoreEf\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ТажибекА\source\repos\OnlineStoreEf\OnlineStoreEf\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\ТажибекА\source\repos\OnlineStoreEf\OnlineStoreEf\obj\Debug\OnlineStoreEf.csprojAssemblyReference.cache
+C:\Users\ТажибекА\source\repos\OnlineStoreEf\OnlineStoreEf\obj\Debug\OnlineStoreEf.csproj.CoreCompileInputs.cache
+C:\Users\ТажибекА\source\repos\OnlineStoreEf\OnlineStoreEf\obj\Debug\OnlineStoreEf.csproj.CopyComplete
+C:\Users\ТажибекА\source\repos\OnlineStoreEf\OnlineStoreEf\obj\Debug\OnlineStoreEf.exe
+C:\Users\ТажибекА\source\repos\OnlineStoreEf\OnlineStoreEf\obj\Debug\OnlineStoreEf.pdb
+C:\Users\ТажибекА\source\repos\OnlineStoreEf\OnlineStoreEf\obj\Debug\OnlineStoreEf.Migrations.first.resources
+C:\Users\ТажибекА\source\repos\OnlineStoreEf\OnlineStoreEf\obj\Debug\OnlineStoreEf.csproj.GenerateResource.cache
